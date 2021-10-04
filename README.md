@@ -1,2 +1,3 @@
 # hello-world
-First time on here
+
+Hello! My name is Brandon and I am a college student from Ohio.
